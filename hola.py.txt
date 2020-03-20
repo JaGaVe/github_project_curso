@@ -1,3 +1,6 @@
+
 print('Hola Mundo, probando GIT, con conflicto')
 #Añadimos un comentario
 #Se añade otro comentario más
+
+miprint.hola_mundo()
